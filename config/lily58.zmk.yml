@@ -1,8 +1,8 @@
 file_format: "1"
 id: lily58
-name: Lily58
+name: Lily58-Glow-ENC-W
 type: shield
-url: https://github.com/kata0510/Lily58
+url: https://github.com/iasoren/Lily58-Glow-Enc-Wireless
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
