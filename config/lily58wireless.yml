@@ -1,6 +1,6 @@
 file_format: "1"
 id: lily58
-name: Lily58-Glow-ENC-W
+name: lily58wireless
 type: shield
 url: https://github.com/iasoren/Lily58-Glow-Enc-Wireless
 requires: [pro_micro]
@@ -9,5 +9,5 @@ features:
   - keys
   - display
 siblings:
-  - lily58_left
-  - lily58_right
+  - lily58wireless_left
+  - lily58wireless_right
