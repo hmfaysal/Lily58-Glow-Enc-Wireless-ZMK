@@ -1,0 +1,14 @@
+file_format: "1"
+id: lily58wireless
+name: Lily58Wireless
+type: shield
+url: https://github.com/iasoren/Lily58-Glow-Enc-Wireless-ZMK
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
+siblings:
+  - lily58wireless_left
+  - ily58wireless_right
