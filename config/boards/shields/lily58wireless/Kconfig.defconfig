@@ -2,7 +2,7 @@
 if SHIELD_LILY58WIRELESS_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Lily58Glow-Enc-Wireless"
+	default "Lily58GEWireless"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
