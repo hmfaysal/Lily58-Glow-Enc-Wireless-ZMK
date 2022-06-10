@@ -12,6 +12,7 @@ manifest:
      - name: zmk-zephyr
       remote: infused-kim
       revision: v3.0.0+zmk-fixes+pd-oled
+      clone-depth: 1
       import: app/west.yml
   self:
     path: config
