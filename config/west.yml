@@ -8,11 +8,9 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       revision: main
-      import: app/west.yml
     - name: zmk
       remote: infused-kim
       revision: my-changes/oled-ext-pwr
-      clone-depth: 1
       import: app/west.yml
   self:
     path: config
