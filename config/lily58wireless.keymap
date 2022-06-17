@@ -57,7 +57,7 @@
 // |  END  |     |     |      |      |      |        |  |       |  <-  |   v   |   ->  |        |       |   \   |
 //                     |      |      |      |        |  |       |      |       | POWER |
 			bindings = <
-&kp TILDE &trans &trans &trans  &trans  &trans                       &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2   &bt BT_SEL 3    &bt BT_SEL 4 &bt DEL
+&kp TILDE &trans &trans &trans  &trans  &trans                       &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2   &bt BT_SEL 3    &bt BT_SEL 4 &kp DEL
 &trans    &trans &trans &trans  &trans  &trans                       &bt BT_CLR       &trans       &kp KP_DIVIDE  &kp KP_MULTIPLY &kp KP_PLUS  &kp KP_MINUS
 &kp HOME  &trans &trans &trans  &trans  &trans                       &trans       &kp UP       &trans         &trans          &trans       &kp KP_EQUAL
 &kp END   &trans &trans &trans  &trans  &trans    &trans   &trans    &kp LEFT     &kp DOWN     &kp RIGHT      &trans          &trans       &kp BSLH
